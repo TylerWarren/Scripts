@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 512adbcbac97abb4bacf63b4a8e34177
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blaster: {instanceID: 0}
+  - lazerBolt: {instanceID: 0}
+  - laserSound: {fileID: 8300000, guid: 33638eb50d0269b40af0f2614bde4356, type: 3}
+  - gameManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
